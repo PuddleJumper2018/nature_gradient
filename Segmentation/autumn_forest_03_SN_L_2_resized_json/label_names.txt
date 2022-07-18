@@ -1,0 +1,6 @@
+_background_
+manmade
+other
+sky
+trees
+water
