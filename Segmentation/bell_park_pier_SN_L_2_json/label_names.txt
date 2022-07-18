@@ -1,0 +1,5 @@
+_background_
+Grass
+Manmade
+Sky
+Water
