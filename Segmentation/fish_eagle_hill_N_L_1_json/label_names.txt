@@ -1,0 +1,5 @@
+_background_
+Rocks
+Sky
+Vegetation
+Water

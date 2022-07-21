@@ -1,0 +1,4 @@
+_background_
+Rocks
+Sky
+Trees
