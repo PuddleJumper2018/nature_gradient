@@ -1,0 +1,5 @@
+_background_
+grass
+manmade
+sky
+trees
